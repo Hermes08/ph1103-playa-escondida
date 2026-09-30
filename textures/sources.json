@@ -1,0 +1,90 @@
+[
+  {
+    "asset": "stone_tiles_02",
+    "source": "https://polyhaven.com/a/stone_tiles_02",
+    "license": "CC0",
+    "files": [
+      "stone_tiles_02_color.jpg",
+      "stone_tiles_02_normal.jpg",
+      "stone_tiles_02_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "marble_01",
+    "source": "https://polyhaven.com/a/marble_01",
+    "license": "CC0",
+    "files": [
+      "marble_01_color.jpg",
+      "marble_01_normal.jpg",
+      "marble_01_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "clay_plaster",
+    "source": "https://polyhaven.com/a/clay_plaster",
+    "license": "CC0",
+    "files": [
+      "clay_plaster_color.jpg",
+      "clay_plaster_normal.jpg",
+      "clay_plaster_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "rough_linen",
+    "source": "https://polyhaven.com/a/rough_linen",
+    "license": "CC0",
+    "files": [
+      "rough_linen_color.jpg",
+      "rough_linen_normal.jpg",
+      "rough_linen_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "oak_veneer_01",
+    "source": "https://polyhaven.com/a/oak_veneer_01",
+    "license": "CC0",
+    "files": [
+      "oak_veneer_01_color.jpg",
+      "oak_veneer_01_normal.jpg",
+      "oak_veneer_01_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "american_walnut_veneer",
+    "source": "https://polyhaven.com/a/american_walnut_veneer",
+    "license": "CC0",
+    "files": [
+      "american_walnut_veneer_color.jpg",
+      "american_walnut_veneer_normal.jpg",
+      "american_walnut_veneer_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "teak_veneer",
+    "source": "https://polyhaven.com/a/teak_veneer",
+    "license": "CC0",
+    "files": [
+      "teak_veneer_color.jpg",
+      "teak_veneer_normal.jpg",
+      "teak_veneer_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "aerial_beach_01",
+    "source": "https://polyhaven.com/a/aerial_beach_01",
+    "license": "CC0",
+    "files": [
+      "aerial_beach_01_color.jpg",
+      "aerial_beach_01_normal.jpg",
+      "aerial_beach_01_roughness.jpg"
+    ]
+  },
+  {
+    "asset": "kloofendal_48d_partly_cloudy_puresky",
+    "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "license": "CC0",
+    "files": [
+      "sky.hdr"
+    ]
+  }
+]

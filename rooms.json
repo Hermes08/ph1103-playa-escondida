@@ -1,0 +1,92 @@
+[
+{
+"name": "Living room",
+"lv": 11,
+"x": 4.6,
+"y": 13.8
+},
+{
+"name": "Kitchen",
+"lv": 11,
+"x": 4.8,
+"y": 11.4
+},
+{
+"name": "Dining",
+"lv": 11,
+"x": 11.6,
+"y": 17.3
+},
+{
+"name": "Sea balcony",
+"lv": 11,
+"x": 5.5,
+"y": 19.2
+},
+{
+"name": "Master suite",
+"lv": 11,
+"x": 2.0,
+"y": 13.6
+},
+{
+"name": "Hallway",
+"lv": 11,
+"x": 3.9,
+"y": 8.2
+},
+{
+"name": "Bedrooms",
+"lv": 11,
+"x": 6.9,
+"y": 3.3
+},
+{
+"name": "Upper lounge",
+"lv": 12,
+"x": 10.0,
+"y": 14.2
+},
+{
+"name": "Roof terrace",
+"lv": 12,
+"x": 7.0,
+"y": 18.9
+},
+{
+"name": "Cinema",
+"lv": 12,
+"x": 4.7,
+"y": 13.4
+},
+{
+"name": "Bar & pool",
+"lv": 12,
+"x": 7.8,
+"y": 2.6
+},
+{
+"name": "Gym",
+"lv": 12,
+"x": 3.0,
+"y": 0.6
+},
+{
+"name": "Sauna",
+"lv": 12,
+"x": 11.0,
+"y": 7.1
+},
+{
+"name": "Master bath",
+"lv": 12,
+"x": 4.2,
+"y": 12.2
+},
+{
+"name": "Upper hall",
+"lv": 12,
+"x": 3.6,
+"y": 7.8
+}
+]
